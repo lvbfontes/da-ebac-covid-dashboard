@@ -1,1 +1,1 @@
-# da-ebac-covid-dashboard
+# COVID - EDA and Dashboard
